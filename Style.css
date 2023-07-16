@@ -1,0 +1,80 @@
+.body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+.Navbar a{
+    text-decoration: none;
+    list-style: none;
+    padding: 10;
+    
+}
+.Navbar{
+    text-align: center;
+    background-color: rgb(203, 207, 207);
+    
+}
+.VOD{
+    margin-left: 480;
+}
+.Portfolio{
+    margin-left: 700;
+    color: crimson;
+}
+.Name{
+    margin-left: 700;
+    color: crimson;
+}
+.aboutcontent{
+    text-align: center;
+    margin: 40;
+
+}
+.aboutcontent:hover{
+    color: darkgreen;
+}
+.Skills{
+    margin-left: 700;
+}
+.Mwork{
+margin-left: 720;
+color: crimson;
+}
+.table{
+    margin-left: 460;
+    background-color: bisque;
+}
+.Mresume{
+    margin-left: 720;
+    color: crimson;
+}
+.cvpic{
+    margin-left: 380;
+}
+.Mcv{
+    display: none;
+    
+}
+.Mcontact{
+    color: crimson;
+}
+.button{
+    width: 100;
+    height: 30;
+}
+.button:hover{
+    background-color: cornflowerblue;
+    color: aliceblue;
+}
+.footer{
+
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+}
+    
+
+
+
+    
